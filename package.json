@@ -29,6 +29,7 @@
     "ngx-restangular": "^3.0.0",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
+    "acorn": ">=5.7.4"
   },
   "devDependencies": {
     "@angular/compiler-cli": "^6.0.3",
